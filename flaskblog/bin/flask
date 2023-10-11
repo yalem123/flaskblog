@@ -1,4 +1,4 @@
-#!/home/yalem/flaskblog/flaskblog/bin/python3
+#!/home/yalem/flaskblog/flaskblog/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
